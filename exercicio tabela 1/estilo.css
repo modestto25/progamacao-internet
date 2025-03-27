@@ -1,0 +1,55 @@
+table{
+    width: 600px;
+    border: 2px solid #C7E7F3; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px;
+    border-collapse: collapse;
+
+  
+}
+table th, table td{
+    border: 2px solid #C7E7F3; 
+}
+.titulo{
+    font-size: 12px; 
+    text-align: center;
+     background-color: #0D5188;
+     color: white;
+}
+.posicao{
+    font-size: 12px; background-color: #66C5E3;
+    width: 10%;
+    text-align: center;
+}
+.cidade{
+    font-size: 12px; background-color: #66c5e3 ;
+}
+.popum{
+    font-size: 12px; background-color:#66c5e3;
+    text-align: center;
+}
+.Posicaodois{
+    font-size: 12px; background-color: #66c5e3;
+}
+.primeiro{
+    font-size: 12px;
+     background-color: silver;
+      border-collapse: collapse;
+      text-align: center;
+}
+.salvador{
+    font-size: 12px; color: #0D5188; background-color: #C7E7F3;
+}
+.numerosalvador{
+    font-size: 12px; background-color: #C7E7F3;
+   text-align: center;
+   width: 15%;
+
+}
+.terceiro{
+    font-size: 12px; background-color: silver;
+    text-align: center;
+}
+.vitoriadaconquista{
+    font-size: 12px; color:#0D5188 ; background-color:#C7E7F3 ;
+}
