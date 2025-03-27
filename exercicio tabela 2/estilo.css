@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+  font-family: Arial, sans-serif; border-collapse:collapse;
+
+}
+table th, table td{
+ padding: 8px;
+}
+table tr{
+    border: 1px solid #DDDDDD;
+}
+.numeroazul{
+    color: #003366; font-size: 18px; font-weight: bold; text-align: center;
+}
+.numeroazulclaro{
+    color: #1398BE; font-size: 18px; font-weight: bold; text-align: center;
+  
+}
+.numeroamarelo{
+    color: #DE9800; font-size: 18px; font-weight: bold; text-align: center;
+    border-top: 2px;
+}
+.numerocinza{
+    color: #CCCCCC; font-size: 18px; font-weight: bold; text-align: center;
+}
+.numerored{
+    color: #C91B04; font-size: 18px; font-weight: bold; text-align: center;
+}
+.nometime{
+    color: #666666; font-size: 14px; font-weight: bold; text-align: left;
+    padding-right: 60px;
+}
+.pontostime{
+    color: black;font-size: 14px; font-weight: bold; text-align: center;
+background-color: #F7F7F7;
+}
+.outrospontos{
+    color: #666666;font-size: 14px; text-align: center; 
+}
+table td:nth-child(2n+3){
+    background-color: #F7F7F7;
+}
+
+th{
+    font-size: 13px; color: #999999; font-weight: bold; text-align: center;
+}
+.borda{
+    border-bottom: 2px solid #cccccc;
+}
